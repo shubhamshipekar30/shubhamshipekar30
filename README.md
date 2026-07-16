@@ -2,11 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shubham%20Shipekar&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=DevOps%20Engineer%20and%20Cloud%20Engineer&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
 
+<br/>
+
 <a href="https://github.com/shubhamshipekar30">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Engineer;Building+CI%2FCD+Pipelines+with+Jenkins+and+Terraform;Deploying+on+AWS+EKS+and+Azure;Containerizing+Everything+with+Docker+and+Kubernetes;Automating+Infrastructure%2C+One+Pipeline+at+a+Time" alt="Typing SVG" />
 </a>
 
+<br/>
+<br/>
+
 <img src="https://img.shields.io/static/v1?label=&message=OPEN%20TO%20WORK&color=7dd3fc&style=for-the-badge&labelColor=000000" alt="Open to Work"/>
+
+<br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=shubhamshipekar30&color=7dd3fc&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/shubhamshipekar30?label=Followers&style=flat-square&color=7dd3fc" alt="Followers"/>
