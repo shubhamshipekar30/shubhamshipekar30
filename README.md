@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shubham%20Shipekar&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=DevOps%20Engineer%20%26%20Cloud%20Engineer&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Shubham%20Shipekar&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=twinkling&desc=DevOps%20Engineer%20and%20Cloud%20Engineer&descAlignY=55&descSize=20&descColor=ffffff" width="100%"/>
 
 <a href="https://github.com/shubhamshipekar30">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Engineer;Building+CI%2FCD+Pipelines+with+Jenkins+%26+Terraform;Deploying+on+AWS+EKS+%26+Azure;Containerizing+Everything+with+Docker+%26+Kubernetes;Automating+Infrastructure%2C+One+Pipeline+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=DevOps+Engineer+%7C+Cloud+Engineer;Building+CI%2FCD+Pipelines+with+Jenkins+and+Terraform;Deploying+on+AWS+EKS+and+Azure;Containerizing+Everything+with+Docker+and+Kubernetes;Automating+Infrastructure%2C+One+Pipeline+at+a+Time" alt="Typing SVG" />
 </a>
 
 <img src="https://img.shields.io/static/v1?label=&message=OPEN%20TO%20WORK&color=7dd3fc&style=for-the-badge&labelColor=000000" alt="Open to Work"/>
@@ -18,7 +18,7 @@
 ## 🧑‍💻 Who I Am
 
 ```typescript
-const shubhamShipekar = shubham shipekar{
+const shubhamShipekar = {
   title: "DevOps / Cloud Engineer",
   stack: {
     languages: ["Python", "Bash"],
@@ -40,7 +40,7 @@ const shubhamShipekar = shubham shipekar{
 <br/>
 
 ## 🚀 Featured Projects
-Shubham Shipekar
+
 ### 📦 Edublitz B2B Medical ERP
 
 <div align="center">
