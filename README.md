@@ -40,7 +40,7 @@ const shubhamShipekar = {
 <br/>
 
 ## 🚀 Featured Projects
-
+Shubham Shipekar
 ### 📦 Edublitz B2B Medical ERP
 
 <div align="center">
