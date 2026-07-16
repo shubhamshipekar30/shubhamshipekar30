@@ -18,7 +18,7 @@
 ## 🧑‍💻 Who I Am
 
 ```typescript
-const shubhamShipekar = {
+const shubhamShipekar = shubham shipekar{
   title: "DevOps / Cloud Engineer",
   stack: {
     languages: ["Python", "Bash"],
